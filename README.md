@@ -3,4 +3,9 @@ One of the most common problems in binary analysis is to find compiler provenanc
 
 See [Report](report.pdf).
 
-*"La Sapienza" University of Rome - MSc in Artificial Intelligence and Robotics, Machine Learning 2019/2020*
+*"La Sapienza" University of Rome - MSc in Artificial Intelligence and Robotics*, Machine Learning 2019/2020
+\
+\
+<img src="imgs/MCGB.png" width="425"/> <img src="imgs/MOGB.png" width="425"/> 
+
+<img src="imgs/MCGB_PR.png" width="425"/> <img src="imgs/MOGB_PR.png" width="425"/> 
